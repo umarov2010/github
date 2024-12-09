@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.behruz-1{
+    text-align: center;
+}
+
+.beh-1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+}
+
+.beh-3{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.beh-btn{
+    background-color: #FF6B00;
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;  
+    color: white; 
+    border: none; 
+}
+
+
+span{
+    color: rgb(247, 148, 1);
+}
+
+
+.be-1{
+    background-image: url(../img/bex1.avif);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.be-2{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.be-4{
+    display: flex;
+    justify-content: center;
+}
+
+.be-3{
+    width: 750px;
+    height: 250px;
+    background-color: white;
+}
+
+.be-text{
+    display: flex;
+    justify-content: space-between;
+}
+.containerM{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.col2 ul li{
+    
+    list-style: none;
+}
+.col3 ul li{
+    list-style: none;
+}
+.col2 ul li a{
+    color: grey;
+}
+.col3 ul li a{
+    color: grey;
+}
